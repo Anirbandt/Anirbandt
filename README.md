@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Anirbandt
-- 👀 I’m interested in HTML & UI/UX Design...
-- 🌱 I’m currently learning UI/UX Design
-- 💞️ I’m looking to collaborate on UI/UX Project
+- I’m a Digital Marketer with One and Six Months of experience.💞️
+- 👀 I’m interested in Wordpress & UI/UX Design...
+- 🌱 I’m currently learning Kotlin/Python
 - 📫 How to reach me https://www.linkedin.com/in/anirbandt/
 
 <!---
