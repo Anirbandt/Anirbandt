@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Anirbandt
-- I’m a Digital Marketer with One and Six Months of experience.💞️
+- I’m a Digital Marketer with one and a half years of experience.💞️
 - 👀 I’m interested in Wordpress & UI/UX Design...
 - 🌱 I’m currently learning Kotlin/Python
 - 📫 How to reach me https://www.linkedin.com/in/anirbandt/
